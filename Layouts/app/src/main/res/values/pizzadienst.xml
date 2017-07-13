@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="betrieb">Feinste reudige Pizza</string>
+
+    <string-array name="pizzas">
+        <item>Pizza Calzone</item>
+        <item>Pizza Katzenhaare</item>
+        <item>Pizza Urin</item>
+        <item>Pizza Calamari</item>
+        <item>Pizza Cheesy Cheeseburger</item>
+    </string-array>
+
+
+</resources>
